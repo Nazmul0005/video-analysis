@@ -4,3 +4,13 @@ langchain-google-genai
 langchain-core
 Pillow
 opencv-python
+streamlit
+python-dotenv
+langchain-google-genai
+langchain-core
+Pillow
+opencv-python
+langchain-google-genai
+python-multipart
+uvicorn
+fastapi
